@@ -23,7 +23,7 @@
     # Description of the functionality provided by this module
     Description          = 'Simple script for retrieve domain or workgroup name'
 
-    # Minimum version of the Windows PowerShell engine required by this module
+    # Minimum version of the Windows Pogit rm -r --cachedwerShell engine required by this module
     PowerShellVersion    = '5.1'
 
     FunctionsToExport    = @(
